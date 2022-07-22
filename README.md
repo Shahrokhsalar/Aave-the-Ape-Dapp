@@ -1,13 +1,1 @@
-# Sample Hardhat Project
-
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+Lend is a simple React component, leveraging the Aave subgraph for market data, a custom useAaveData react hook to fetch user data, and aave-js to prepare transactions. Read more here! The Aave Ape is a helper contract that lets you go long ("ape") the Aave asset of your choice, borrowing a "short" asset on Aave to buy more of the "ape" asset. I…
