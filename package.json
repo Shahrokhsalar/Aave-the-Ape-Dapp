@@ -1,6 +1,11 @@
 {
   "name": "hardhat-project",
   "dependencies": {
-    "@openzeppelin/contracts": "^4.7.0"
+    "@openzeppelin/contracts": "^4.7.0",
+    "chalk": "^5.0.1",
+    "fs": "^0.0.1-security",
+    "hardhat": "^2.10.1",
+    "ramda": "^0.28.0",
+    "yarn": "^1.22.19"
   }
 }
